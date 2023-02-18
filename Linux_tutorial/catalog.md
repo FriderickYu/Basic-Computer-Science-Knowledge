@@ -2,19 +2,19 @@
 
 [Where am I and what are in the location](Where_am_I_and_what_are_in_the_location)
 
-[Move and File](Move_and_File)
+[Move and File](Move_and_File.md)
 
-[Help](Help)
+[Help](Help.md)
 
-[File Manipulation](File_Manipulation)
+[File Manipulation](File_Manipulation.md)
 
-[Text Editor](Text_Editor)
+[Text Editor](Text_Editor.md)
 
-[Wildcards](Wildcards)
+[Wildcards](Wildcards.md)
 
-[Permissions](Permissions)
+[Permissions](Permissions.md)
 
-[Filter](Filter)
+[Filter](Filter.md)
 
 [Regular Expressions](Regular_Expression)
 
