@@ -6,7 +6,7 @@
 
 [Help](Help.md)
 
-[File Manipulation](File_Manipulation.md)
+[File Manipulation](File Manipulation.md)
 
 [Text Editor](Text_Editor.md)
 
