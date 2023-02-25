@@ -1,9 +1,4 @@
-# Basic-Computer-Science-Knowledge
+# 杂谈性内容
 
-This repository main consists five branches:
-
-1. Java multithreading
-2. Network and Protocols
-3. Databases
-4. Framework and middleware
-5. Linux
+1. [JVM模型与值传递](https://segmentfault.com/a/1190000016773324)
+2. [Java设计模式](https://segmentfault.com/a/1190000042236522)
