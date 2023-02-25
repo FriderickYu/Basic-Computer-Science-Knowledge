@@ -7,3 +7,4 @@ This repository main consists five branches:
 3. Databases
 4. Framework and middleware
 5. Linux
+6. Others
