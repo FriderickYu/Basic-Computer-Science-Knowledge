@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be3b211-e466-4039-ac4d-abf1dab436bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pic/Querying_data/order_by.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Filtering.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/Filtering_data/LIMIT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/Filtering_data/distinct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/Filtering_data/where.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Querying_data.md" beforeDir="false" afterPath="$PROJECT_DIR$/Querying_data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Querying_data.md" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Querying_data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Basic-Computer-Science-Knowledge\pic\Filtering_data" />
+      <recent name="D:\Basic-Computer-Science-Knowledge\Basics" />
       <recent name="D:\Basic-Computer-Science-Knowledge\pic\Querying_data" />
     </key>
   </component>
@@ -55,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677546261628</updated>
       <workItem from="1677546264604" duration="1191000" />
-      <workItem from="1677574510504" duration="4710000" />
+      <workItem from="1677574510504" duration="12379000" />
     </task>
     <servers />
   </component>

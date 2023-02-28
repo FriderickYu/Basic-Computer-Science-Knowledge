@@ -4,7 +4,7 @@
 select column from table_name;
 ```
 
-<img src="./pic/Querying_data/select.jpg" width = "246" height = "78" alt="select" align=center/>
+<img src="../pic/Querying_data/select.jpg" width = "246" height = "78" alt="select" align=center/>
 
 When executing the `SELECT` statement. MySQL evaluates the `FROM` clause before the `SELECT` clause
 
@@ -21,7 +21,7 @@ column1 [ASC|DESC]
 
 By default, `order by` clause uses `ASC`
 
-<img src="./pic/Querying_data/order_by.jpg" width = "382" height = "78" alt="order_by" align=center/>
+<img src="../pic/Querying_data/order_by.jpg" width = "382" height = "78" alt="order_by" align=center/>
 
 `order by` clause can also sort a result set by an expression
 
