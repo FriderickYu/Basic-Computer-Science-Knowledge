@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e54fda85-6aa0-4a70-83d2-6baf54795003" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mybatis/Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mybatis/Mapper.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <workItem from="1678238509436" duration="8389000" />
       <workItem from="1678328189485" duration="1209000" />
       <workItem from="1678521529335" duration="1369000" />
-      <workItem from="1678543375626" duration="4589000" />
+      <workItem from="1678543375626" duration="6649000" />
     </task>
     <servers />
   </component>
